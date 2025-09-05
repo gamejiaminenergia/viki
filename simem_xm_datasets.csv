@@ -1,0 +1,258 @@
+id,IdDataset,NombreConjuntoDatos,UrlConexionAPI
+1,81fd6b,Actuación del Esquema de Deslastre Automático de Carga (EDAC),https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=81fd6b
+2,2C6C29,Acumulado anual de los calce u operaciones de las órdenes de demanda en Convocatorias,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=2C6C29
+3,6A36D0,Acumulado anual de los calce u operaciones de las órdenes de oferta en Convocatorias,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=6A36D0
+4,a38a5c,Agentes MEM inscritos en el mecanismo Derivex,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=a38a5c
+5,75f675,Aportes Energético Largo Plazo,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=75f675
+6,1eee63,Aportes Energético Mediano Plazo,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=1eee63
+7,BA1C55,Aportes Hídricos en Energía,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=BA1C55
+8,2bff14,Aportes Hídricos en Energía del Informe Diario de Operación,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=2bff14
+9,02B289,Aportes Hídricos en Masa,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=02B289
+10,f138b6,Aportes Hídricos en Masa del Informe Diario,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=f138b6
+11,34FFDA,Aportes Hídricos en Porcentaje,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=34FFDA
+12,ec8596,Aportes Hídricos en Porcentaje del Informe Diario,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=ec8596
+13,306c67,Asignaciones de OEF por planta,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=306c67
+14,DE416B,Calce u operaciones de las órdenes de demanda en Convocatorias de Participación en Subasta de Cierre,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=DE416B
+15,11093A,Calce u operaciones de las órdenes de oferta en Convocatorias de Participación en Subasta de Cierre,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=11093A
+16,13FC3A,Calculo Frecuencia Interrupción Servidores,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=13FC3A
+17,fad372,Cantidad de fronteras de UNR por nivel de consumo,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=fad372
+18,f73ff2,Cantidad de fronteras de UNR por nivel de tensión,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=f73ff2
+19,42d664,Cantidades de energía por comercializador de contratos adjudicados en subastas del Ministerio (MME),https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=42d664
+20,f21bd1,Cantidades horarias de energía por comercializador de contratos adjudicados en subastas del Ministerio (MME),https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=f21bd1
+21,d31647,Cantidades y precios en contratos de energía del Mercado Mayorista por comercializador,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=d31647
+22,7E9CBB,Capacidad de respaldo para operaciones en el Mercado Mayorista de Energía,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=7E9CBB
+23,43d851,Cargos por uso del STN,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=43d851
+24,1445AC,Caudal Descargado por Tipo de Descarga,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=1445AC
+25,c10ec7,Cobertura de la demanda de contratos realizados fuera del SICEP,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=c10ec7
+26,da2a88,Cobertura de la demanda de UNR,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=da2a88
+27,8ae7da,Combustibles y Heat Rate de plantas térmicas del SIN,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=8ae7da
+28,ebc2d1,Condición del sistema según lo establecido en el Estatuto de Riesgo de Desabastecimiento,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=ebc2d1
+29,0bf1d9,Consumo de Combustible Energético Largo Plazo,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=0bf1d9
+30,0837f0,Consumo de Combustible Energético Mediano Plazo,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=0837f0
+31,4f2075,Coordinación de mantenimientos generadores,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=4f2075
+32,0d5da1,Costo Equivalente de Energía (CEE),https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=0d5da1
+33,ED7CAA,Costo Equivalente Real de Energía y Costo Equivalente de Energía (CERE y CEE),https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=ED7CAA
+34,29f060,Costo marginal del Despacho Económico,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=29f060
+35,f2ba18,Costo Marginal Promedio del Redespacho del Informe Diario de Operación,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=f2ba18
+36,03e35f,Costo Marginal Redespacho,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=03e35f
+37,2e18cb,Costo promedio ponderado en contratos de largo plazo MC,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=2e18cb
+38,cf0167,Costo Restricciones Asignadas al Agente,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=cf0167
+39,10063b,Costo Servicios ASIC y CND,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=10063b
+40,b15ed2,Costo unitario promedio diario de reconciliación positiva,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=b15ed2
+41,965765,Costo unitario SIMEM y SICEP,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=965765
+42,ef0522,Costos Marginales Energético Largo Plazo,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=ef0522
+43,82ae92,Costos Marginales Energético Mediano Plazo,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=82ae92
+44,9e491b,"Datos soporte del proceso de Contratos por Código sic agente, Recurso, versión y horaria",https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=9e491b
+45,fa4671,"Datos soporte del proceso de Contratos por Recurso, versión y diaria",https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=fa4671
+46,ab3d66,Datos soporte del proceso de Contratos por versión y horaria,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=ab3d66
+47,48cd87,"Datos soporte del proceso de Demandas por Código sic agente, Código sic frontera, Tipo frontera, versión y horaria",https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=48cd87
+48,c1b851,"Datos soporte del proceso de Demandas por Código sic agente, Mercado comercialización, Sistema transmisión, versión y horaria",https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=c1b851
+49,085460,"Datos soporte del proceso de Demandas por Código sic agente, Recurso, Tipo despacho Recurso, Estado, versión y diaria",https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=085460
+50,b7917a,"Datos soporte del proceso de Demandas por Código sic agente, versión y horaria",https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=b7917a
+51,f96857,"Datos soporte del proceso de Demandas por Código Sic Frontera, Submercado, Tipo enlace, versión y horaria",https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=f96857
+52,29517d,"Datos soporte del proceso de Demandas por Recurso, versión y diaria",https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=29517d
+53,0fa2ac,"Datos soporte del proceso de Demandas por Recurso, versión y horaria",https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=0fa2ac
+54,ea754c,Datos soporte del proceso de Demandas por versión y diaria,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=ea754c
+55,2a301d,"Datos soporte del proceso de Despacho Ideal por Recurso, versión y horaria",https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=2a301d
+56,a704ee,"Datos soporte del proceso de liquidación por Código sic agente, Recurso, Tipo combustible, versión y mensual",https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=a704ee
+57,f09333,"Datos soporte del proceso de liquidación por Código sic agente, Recurso, Unidad, versión y horaria",https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=f09333
+58,4eb7e3,"Datos soporte del proceso de liquidación por Código sic agente, Recurso, versión y diaria",https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=4eb7e3
+59,c41fe8,"Datos soporte del proceso de liquidación por Código sic agente, Recurso, versión y horaria",https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=c41fe8
+60,28b062,"Datos soporte del proceso de liquidación por Código sic agente, versión y diaria",https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=28b062
+61,0220e0,"Datos soporte del proceso de liquidación por Código sic agente, versión y mensual",https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=0220e0
+62,206062,"Datos soporte del proceso de liquidación por Código sic agente, versión, horaria y mensual",https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=206062
+63,32afa5,"Datos soporte del proceso de liquidación por descripción convocatoria, Código convocatoria subasta, Fecha asignación subasta, versión y mensual",https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=32afa5
+64,5fc353,"Datos soporte del proceso de liquidación por Recurso, Tipo combustible, versión y mensual",https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=5fc353
+65,6dc639,"Datos soporte del proceso de liquidación por Recurso, versión y diaria",https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=6dc639
+66,2d5afe,"Datos soporte del proceso de liquidación por Recurso, versión y horaria",https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=2d5afe
+67,9795ba,"Datos soporte del proceso de liquidación por Tipo combustible, versión y mensual",https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=9795ba
+68,7c8129,Datos soporte del proceso de liquidación por versión y diaria,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=7c8129
+69,3F3687,Datos soporte del proceso de liquidación por versión y horaria,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=3F3687
+70,f2081a,Datos soporte del proceso de liquidación por versión y mensual,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=f2081a
+71,77b26e,Datos soporte del proceso de liquidación por versión y mensual,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=77b26e
+72,760616,Déficit Energético Largo Plazo,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=760616
+73,f63b8b,Déficit Energético Mediano Plazo,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=f63b8b
+74,682a0b,Demanda Energético Largo Plazo,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=682a0b
+75,596c1c,Demanda Energético Mediano Plazo,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=596c1c
+76,ff027b,Despacho programado recursos de generación,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=ff027b
+77,64eb3f,Disponibilidad Real de las Unidades de Generación del Sistema,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=64eb3f
+78,8b732d,Duración promedio de los contratos entre agentes,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=8b732d
+79,860bc8,Duración promedio de los contratos producto de convocatorias del SICEP para el mercado regulado,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=860bc8
+80,d808d4,Energía de Referencia para el Mercado Secundario,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=d808d4
+81,b38efc,Energía Firme del Cargo por Confiabilidad verificada por el Centro Nacional de Despacho,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=b38efc
+82,305a36,Energía promedio de los contratos de convocatorias del SICEP con destino al mercado regulado del Sistema Interconectado Nacional,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=305a36
+83,1e543e,Energía promedio de los contratos del SICEP para el mercado regulado por comercializador,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=1e543e
+84,086d86,Energía promedio de los contratos entre agentes del Sistema Interconectado Nacional,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=086d86
+85,06bb49,Energía promedio mensual de contratos con UNR para el total del SIN,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=06bb49
+86,b73e3c,Energía promedio mensual de contratos con UNR por mercado de comercialización,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=b73e3c
+87,710e77,Estadísticas anuales de las convocatorias del SICEP para el mercado regulado,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=710e77
+88,F3A83B,Estadísticas de contratos de Demanda Desconectable Voluntaria (DDV),https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=F3A83B
+89,8DECCA,Estadísticas de contratos del mercado secundario,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=8DECCA
+90,7DACE2,Estadísticas de Horas de indisponibilidad de las líneas de transmisión nacional y regional del SIN,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=7DACE2
+91,6f94cf,Estadísticas de los pronósticos de energía horaria y demanda de energía atendida horaria por periodo y por mercado de comercialización,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=6f94cf
+92,7E4EE4,Estadísticas de monto de indisponibilidad de las líneas de transmisión nacional y regional del SIN,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=7E4EE4
+93,68a95b,Estadísticas de precios de los contratos adjudicados en subastas del Ministerio (MME),https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=68a95b
+94,da2c83,Estadísticas de precios por comercializador de los contratos adjudicados en subastas del Ministerio (MME),https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=da2c83
+95,6827d9,Estadísticas del Costo Unitario de Reconciliación Positiva,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=6827d9
+96,40d2d3,Estadísticas horarias de precios de los contratos adjudicados en subastas del Ministerio (MME),https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=40d2d3
+97,705468,Estadísticas horarias de precios por comercializador de los contratos adjudicados en subastas del Ministerio (MME),https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=705468
+98,fe1a54,Estudio Esquema de Desconexión Automático de Carga EDAC,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=fe1a54
+99,860c86,Estudio Interconexión Colombia Ecuador,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=860c86
+100,3C77AF,Eventos de Demanda No Atendida,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=3C77AF
+101,a859bf,Eventos de Frecuencia,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=a859bf
+102,a3db98,Eventos de Tensión fuera de Rango,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=a3db98
+103,7a07ac,Eventos en unidades de Generación,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=7a07ac
+104,2cf281,Evolución histórica anual de las estadísticas generales de las convocatorias SICEP con destino al mercado regulado,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=2cf281
+105,1c91c4,Fecha de retiro de unidades de generación,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=1c91c4
+106,8d7548,Garantía de reserva de capacidad de transporte,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=8d7548
+107,8750f9,Generación Energético Largo Plazo,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=8750f9
+108,6781a0,Generación Energético Mediano Plazo,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=6781a0
+109,8E7F3C,Generación ideal nacional por planta,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=8E7F3C
+110,E055B4,Generación programada incluyendo autorización a desvío,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=E055B4
+111,12c7fd,Generación Programada Redespacho por Planta,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=12c7fd
+112,055A4D,Generación real,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=055A4D
+113,E17D25,Generación Real y Programada en las Plantas de Generación,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=E17D25
+114,30D865,Histórico anual de los precios de referencia para el traslado al Mercado Regulado,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=30D865
+115,97c8ec,Histórico de eventos en Activos de Transmisión del Sistema de Transmisión Nacional,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=97c8ec
+116,A2919B,Histórico de eventos en Líneas de Transmisión del Sistema de Transmisión Nacional,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=A2919B
+117,F28855,Histórico de eventos en Unidades de Generación,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=F28855
+118,bf41fe,Histórico Posición abierta por contrato II Open interest II,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=bf41fe
+119,58a1b8,Horas de indisponibilidad de las líneas de transmisión nacional y regional del SIN,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=58a1b8
+120,d4049a,Importaciones Netas Energético Largo Plazo,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=d4049a
+121,1088a6,Importaciones Netas Energético Mediano Plazo,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=1088a6
+122,09a70a,Indices VERE y VEREC Energético Largo Plazo,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=09a70a
+123,7a2e85,Indices VERE y VEREC Energético Mediano Plazo,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=7a2e85
+124,b9f2ec,Información de Transferencias Internacionales,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=b9f2ec
+125,7f16cb,Información de Transferencias Internacionales,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=7f16cb
+126,531ba3,Informe anual de auditoría de costos de combustible para el cálculo del precio marginal de escasez,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=531ba3
+127,9c7ac5,Informe Anual de Operadores de Red,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=9c7ac5
+128,cdfe1b,Informe de reevaluación de parámetros de regulación secundaria de frecuencia AGC,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=cdfe1b
+129,D0B4E3,Informe de resultados del despacho económico,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=D0B4E3
+130,51407A,Informe semestral de planeamiento operativo eléctrico de largo plazo,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=51407A
+131,77395a,Informe trimestral de auditoría de costos de combustible reportados para la operación,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=77395a
+132,caeff0,Informe trimestral de planeamiento operativo eléctrico de mediano plazo,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=caeff0
+133,b94b3c,Limitación de suministro en bolsa según la Res. CREG 001 de 2003,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=b94b3c
+134,315976,Limitación de suministros a usuarios finales según la Res. CREG 116 de 1998,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=315976
+135,972263,Listado de agentes registrados,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=972263
+136,841808,Listado de Áreas Operativas del Sistema de Interconectado Nacional,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=841808
+137,A0CF2A,Listado de Embalses que sirven al Sistema Interconectado Nacional,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=A0CF2A
+138,568929,Listado de Operadores de activos del Sistema Interconectado Nacional,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=568929
+139,7F18B1,Listado de plantas de generación en pruebas,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=7F18B1
+140,cc59b1,Listado de series hidrológicas,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=cc59b1
+141,10F2C9,Listado de Subáreas Operativas del Sistema de Interconectado Nacional,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=10F2C9
+142,F99E13,Listado de Subestaciones del STN y el STR,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=F99E13
+143,670221,Listado de unidades de generación,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=670221
+144,42f98c,Meteorología local en Plantas Eólicas,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=42f98c
+145,7e704d,Meteorología local en Plantas Solares,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=7e704d
+146,521384,Montos de garantías para cubrir las transacciones en el mercado de energía mayorista,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=521384
+147,86d025,Montos de garantías para cubrir las transacciones en el mercado de energía mayorista agregados,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=86d025
+148,e71658,Montos de garantías y mecanismos alternativos para cubrir las transacciones en el mercado de energía mayorista,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=e71658
+149,054d02,Montos de garantías y mecanismos alternativos para cubrir las transacciones en el mercado de energía mayorista agregados,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=054d02
+150,53c5f4,Montos por indisponibilidad de las líneas de transmisión nacional y regional del SIN en COP,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=53c5f4
+151,BD26DC,Nivel de embalse declarado por el agente diariamente,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=BD26DC
+152,71a7b9,Niveles Mínimos Operativos de Embalses de invierno,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=71a7b9
+153,bd583d,Niveles Mínimos Operativos de Embalses de verano,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=bd583d
+154,629B6D,Oportunidad en la entrega de información por parte de los agentes de contratos largo plazo,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=629B6D
+155,37A508,Panorama energético Corto Plazo Embalse,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=37A508
+156,ADE905,Panorama energético Corto Plazo Generación,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=ADE905
+157,AA5C78,Panorama energético Corto Plazo Supuestos y Resultados,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=AA5C78
+158,7538fd,Parámetros técnicos de las líneas de transmisión,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=7538fd
+159,0bfc9d,Parámetros técnicos de las plantas de generación,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=0bfc9d
+160,7580FA,Participación en Convocatorias de Participación en Subasta de Cierre de agentes registrados,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=7580FA
+161,d0d746,Pérdidas Energía Asignadas Agente,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=d0d746
+162,9a387a,Porcentaje Estimado de cobertura con contratos de convocatorias del SICEP para el mercado regulado,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=9a387a
+163,90b78a,Porcentaje Estimado de cobertura con contratos entre agentes,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=90b78a
+164,EC6945,Precio de bolsa horario,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=EC6945
+165,96D56E,Precio de bolsa ponderado,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=96D56E
+166,909809,Precio de Oferta de Arranque y Parada por recurso USD,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=909809
+167,b1189f,"Precio de oferta de la planta en el proceso del despacho ideal, en COP/kWh",https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=b1189f
+168,b18005,"Precio de oferta de la planta para cada configuración ofertada en el proceso del despacho ideal, en COP/kWh",https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=b18005
+169,3451bf,Precio de Oferta Declarado,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=3451bf
+170,C35A63,Precio de oferta en el nodo frontera para exportación,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=C35A63
+171,709b84,Precio de Transacciones en Bolsa,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=709b84
+172,e427a2,Precio oferta arranque y parada por unidad para el combustible USD,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=e427a2
+173,ae3f23,Precios de escasez del Cargo por Confiabilidad,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=ae3f23
+174,ac9492,Precios futuros horarios mensuales de contratos con UNR para el total del SIN,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=ac9492
+175,05f977,Precios futuros horarios mensuales de contratos con UNR por mercado de comercialización,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=05f977
+176,30a827,Precios futuros mensuales de contratos con UNR para el total del SIN,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=30a827
+177,a6dcc1,Precios futuros mensuales de contratos con UNR por mercado de comercialización,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=a6dcc1
+178,48e773,Precios futuros y estadísticas de los contratos de convocatorias del SICEP para el mercado regulado,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=48e773
+179,dac3c5,Precios futuros y estadísticas de los contratos de convocatorias del SICEP para el mercado regulado por comercializador,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=dac3c5
+180,178428,Precios futuros y estadísticas de los contratos entre agentes,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=178428
+181,60fed4,Precios futuros y estadísticas de los contratos entre agentes por comercializador y generador,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=60fed4
+182,3cf0d1,Precios horarios futuros y estadísticas de los contratos de convocatorias del SICEP para el mercado regulado,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=3cf0d1
+183,560280,Precios horarios futuros y estadísticas de los contratos de convocatorias del SICEP para el mercado regulado por comercializador,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=560280
+184,4f9fe7,Precios horarios futuros y estadísticas de los contratos entre agentes,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=4f9fe7
+185,f9d42a,Precios horarios futuros y estadísticas de los contratos entre agentes por comercializador y generador,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=f9d42a
+186,e5be73,Precios horarios y estadísticas de los contratos de convocatorias del SICEP para el mercado regulado,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=e5be73
+187,d528cb,Precios horarios y estadísticas de los contratos de convocatorias del SICEP para el mercado regulado por comercializador,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=d528cb
+188,5f246a,Precios horarios y estadísticas de los contratos entre agentes,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=5f246a
+189,9e2844,Precios horarios y estadísticas de los contratos entre agentes por comercializador,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=9e2844
+190,61ccc8,Precios horarios y estadísticas de los contratos entre agentes por generador,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=61ccc8
+191,7b756b,Precios promedios horarios mensuales de contratos con UNR para el total del SIN,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=7b756b
+192,d66c25,Precios promedios horarios mensuales de contratos con UNR por mercado de comercialización,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=d66c25
+193,5f4e97,Precios promedios horarios mensuales por comercializador de contratos con UNR para el total del SIN,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=5f4e97
+194,e5437f,Precios promedios horarios mensuales por comercializador y mercado de comercialización de contratos con UNR,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=e5437f
+195,5f8082,Precios promedios mensuales de contratos con UNR para el total del SIN,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=5f8082
+196,b1ccc4,Precios promedios mensuales de contratos con UNR por mercado de comercialización,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=b1ccc4
+197,52341b,Precios y Energía de los contratos no realizados a través del SICEP con destino al mercado regulado,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=52341b
+198,1be05d,Precios y Energía de los contratos no realizados a través del SICEP que atienden el mercado de usuarios regulados,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=1be05d
+199,0c5948,Precios y estadísticas de los contratos de convocatorias del SICEP entre agentes integrados verticalmente para el mercado regulado,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=0c5948
+200,2106b8,Precios y estadísticas de los contratos de convocatorias del SICEP entre agentes integrados verticalmente para el mercado regulado por comercializador,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=2106b8
+201,69736c,"Precios y estadísticas de los contratos de convocatorias del SICEP para el mercado regulado, por año de suscripción",https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=69736c
+202,331979,"Precios y estadísticas de los contratos de convocatorias del SICEP para el mercado regulado, por año de suscripción y por comercializador",https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=331979
+203,6bac48,Precios y estadísticas de los contratos entre agentes integrados verticalmente para el mercado no regulado,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=6bac48
+204,781422,Precios y estadísticas de los contratos entre agentes integrados verticalmente por comercializador,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=781422
+205,1cdd5f,Precios y estadísticas de los contratos entre agentes integrados verticalmente por generador,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=1cdd5f
+206,ea45fe,"Precios y estadísticas de los contratos entre agentes, por año de suscripción",https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=ea45fe
+207,d760bb,"Precios y estadísticas de los contratos entre agentes, por año de suscripción y por comercializador",https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=d760bb
+208,38a251,"Precios y estadísticas de los contratos entre agentes, por año de suscripción y por generador",https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=38a251
+209,f0be2a,Precios y estadísticas mensuales de contratos de convocatorias del SICEP para el mercado regulado por comercializador,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=f0be2a
+210,bb4a0a,Precios y estadísticas mensuales de contratos entre agentes,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=bb4a0a
+211,fbfafd,Precios y estadísticas mensuales de contratos entre agentes por comercializador,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=fbfafd
+212,013220,Precios y estadísticas mensuales de contratos entre agentes por generador,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=013220
+213,cebe60,Precios y estadísticas mensuales de los contratos de convocatorias del SICEP para el mercado regulado,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=cebe60
+214,c6f395,Procedimiento de retiro de agentes según la Res. CREG 156 de 2011,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=c6f395
+215,0E4A36,Promedio aritmético anual acumulado de la representatividad de la energía transada,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=0E4A36
+216,58E055,Promedio aritmético anual acumulado de la representatividad de participantes del MEM,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=58E055
+217,AE2DD3,Promedio aritmético anual de la participación en Convocatorias de agentes registrados,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=AE2DD3
+218,9e9ee7,Pronóstico de demanda de energía y demanda atendida por mercado de comercialización,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=9e9ee7
+219,a016ba,Pronóstico del CND de demanda por Área operativa,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=a016ba
+220,68300e,Pronóstico del CND de demanda por mercado de comercialización,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=68300e
+221,de5ea2,Pronóstico del CND de demanda por subárea operativa,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=de5ea2
+222,d91840,Pronóstico oficial de demanda por Área operativa,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=d91840
+223,4d0f92,Pronóstico oficial de demanda por mercado de comercialización,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=4d0f92
+224,63d90d,Pronóstico oficial de demanda por subárea operativa,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=63d90d
+225,06b8bc,Proyección de balance energético de corto plazo,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=06b8bc
+226,8d3ccd,Proyección de embalse agregado de corto plazo,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=8d3ccd
+227,f62164,Proyección de reserva caliente de corto plazo,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=f62164
+228,15df39,Proyecciones de energía de los contratos no realizados a través del SICEP con destino al mercado regulado por comercializador,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=15df39
+229,86d298,Proyecciones de energía de los contratos no realizados a través del SICEP con destino al mercado regulado por comercializador y contrato,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=86d298
+230,8d10e6,Proyecciones de las cantidades y precios en contratos de energía del Mercado Mayorista por comercializador,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=8d10e6
+231,d943d5,Proyecciones de precios de los contratos no realizados a través del SICEP con destino al mercado regulado por comercializador,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=d943d5
+232,6d9c07,Proyecciones de precios de los contratos no realizados a través del SICEP con destino al mercado regulado por comercializador y contrato,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=6d9c07
+233,F577E2,Pruebas de generación corto plazo,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=F577E2
+234,62649f,Recomendaciones Eléctricas consideradas en el Despacho Económico,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=62649f
+235,44c3e3,Recomendaciones Eléctricas consideradas en Tiempo Real,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=44c3e3
+236,6e0197,Recomendaciones Eléctricas de Corto Plazo,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=6e0197
+237,EDBDA0,Representatividad de la energía transada,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=EDBDA0
+238,055232,Representatividad de participantes del MEM,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=055232
+239,ea1c85,Reserva asignada como Control Automático de Generación,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=ea1c85
+240,270ba7,Reservas de Energía Energético Largo Plazo,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=270ba7
+241,eb6857,Reservas de Energía Energético Mediano Plazo,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=eb6857
+242,561aa8,Reservas en Porcentaje Energético Largo Plazo,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=561aa8
+243,509acf,Reservas en Porcentaje Energético Mediano Plazo,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=509acf
+244,B0E933,Reservas Hidráulicas en Energía,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=B0E933
+245,138ED1,Reservas Hidráulicas en Masa,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=138ED1
+246,9605b0,Reservas Hidráulicas en Masa del Informe Diario de Operación,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=9605b0
+247,843497,Reservas Hidráulicas en Porcentaje,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=843497
+248,1d3ef8,Reservas Hidráulicas en Porcentaje del Informe Diario de Operación,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=1d3ef8
+249,c51127,Reservas Hidráulicas Energía del Informe Diario de Operación,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=c51127
+250,385613,Resultados de las Subastas de Reconfiguración,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=385613
+251,5e8c28,Transacciones realizadas en el mecanismo Derivex,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=5e8c28
+252,135c10,Valores del Cargo por Confiabilidad,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=135c10
+253,7a30a3,Versiones de factura para la liquidación diaria,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=7a30a3
+254,24914F,Versiones de factura para la liquidación mensual,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=24914F
+255,6a7864,Vertimientos Energético Largo Plazo,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=6a7864
+256,e2f117,Vertimientos Energético Mediano Plazo,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=e2f117
+257,AECA28,Vertimientos hídricos,https://www.simem.co/backend-files/api/PublicData?startDate=2025-09-05&endDate=2025-09-05&datasetId=AECA28
