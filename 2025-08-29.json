@@ -1,0 +1,4252 @@
+[
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "TRM1",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "CICLO COMBINADO",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "TEC1",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "CICLO COMBINADO",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "TFL4",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "CICLO COMBINADO",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 2381640.0,
+    "GeneracionProgramadaDespacho": 670000.0,
+    "GeneracionProgramadaRedespacho": 2230000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "TBST",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "CICLO COMBINADO",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 8589000.0,
+    "GeneracionProgramadaDespacho": 6934140.0,
+    "GeneracionProgramadaRedespacho": 6650688.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "TSR1",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "CICLO COMBINADO",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "TCDT",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "CICLO COMBINADO",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 4915310.0,
+    "GeneracionProgramadaDespacho": 3952540.0,
+    "GeneracionProgramadaRedespacho": 4130540.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "TFL1",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "CICLO COMBINADO",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "TVL1",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "CICLO COMBINADO",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "HMIN",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "FILO DE AGUA",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 630930.0,
+    "GeneracionProgramadaDespacho": 1320000.0,
+    "GeneracionProgramadaRedespacho": 624000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "ESMR",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "FILO DE AGUA",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 368740.0,
+    "GeneracionProgramadaDespacho": 360000.0,
+    "GeneracionProgramadaRedespacho": 360000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "MOY1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "FILO DE AGUA",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 1929650.0,
+    "GeneracionProgramadaDespacho": 1800000.0,
+    "GeneracionProgramadaRedespacho": 1800000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "DVS1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "FILO DE AGUA",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 2959400.0,
+    "GeneracionProgramadaDespacho": 3600000.0,
+    "GeneracionProgramadaRedespacho": 2900000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "SMI1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "FILO DE AGUA",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 690440.0,
+    "GeneracionProgramadaDespacho": 754000.0,
+    "GeneracionProgramadaRedespacho": 710000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "CLL1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "FILO DE AGUA",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 1475900.0,
+    "GeneracionProgramadaDespacho": 1872000.0,
+    "GeneracionProgramadaRedespacho": 1440000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "SNFR",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "FILO DE AGUA",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 655290.0,
+    "GeneracionProgramadaDespacho": 540000.0,
+    "GeneracionProgramadaRedespacho": 540000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "CUC1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "FILO DE AGUA",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 896930.0,
+    "GeneracionProgramadaDespacho": 770000.0,
+    "GeneracionProgramadaRedespacho": 979000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2QEK",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "FILO DE AGUA",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 846540.0,
+    "GeneracionProgramadaDespacho": 840000.0,
+    "GeneracionProgramadaRedespacho": 840000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "TPUY",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 660280.0,
+    "GeneracionProgramadaDespacho": 710000.0,
+    "GeneracionProgramadaRedespacho": 710000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "GYP3",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 418720.0,
+    "GeneracionProgramadaDespacho": 356000.0,
+    "GeneracionProgramadaRedespacho": 356000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3IRX",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 589000.0,
+    "GeneracionProgramadaDespacho": 790000.0,
+    "GeneracionProgramadaRedespacho": 788000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "GYPO",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 2909820.0,
+    "GeneracionProgramadaDespacho": 2396000.0,
+    "GeneracionProgramadaRedespacho": 2807000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4YCF",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 920000.0,
+    "GeneracionProgramadaDespacho": 920000.0,
+    "GeneracionProgramadaRedespacho": 920000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3DDT",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 1120170.0,
+    "GeneracionProgramadaDespacho": 1089000.0,
+    "GeneracionProgramadaRedespacho": 1067000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3IQA",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 218190.0,
+    "GeneracionProgramadaDespacho": 201000.0,
+    "GeneracionProgramadaRedespacho": 198000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "MATA",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 612820.0,
+    "GeneracionProgramadaDespacho": 545000.0,
+    "GeneracionProgramadaRedespacho": 539000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3INX",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 287000.0,
+    "GeneracionProgramadaDespacho": 287000.0,
+    "GeneracionProgramadaRedespacho": 287000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3IZ6",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 745000.0,
+    "GeneracionProgramadaDespacho": 781000.0,
+    "GeneracionProgramadaRedespacho": 798000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3HF5",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 856890.0,
+    "GeneracionProgramadaDespacho": 791000.0,
+    "GeneracionProgramadaRedespacho": 799000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "EPFV",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 589220.0,
+    "GeneracionProgramadaDespacho": 611000.0,
+    "GeneracionProgramadaRedespacho": 605000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "PRC2",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 2518870.0,
+    "GeneracionProgramadaDespacho": 1518506.0,
+    "GeneracionProgramadaRedespacho": 1781712.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "LTSJ",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 7302410.0,
+    "GeneracionProgramadaDespacho": 7326000.0,
+    "GeneracionProgramadaRedespacho": 7326000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "ALBG",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 5195270.0,
+    "GeneracionProgramadaDespacho": 6264000.0,
+    "GeneracionProgramadaRedespacho": 5116000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "PRC3",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 8747300.0,
+    "GeneracionProgramadaDespacho": 8594500.0,
+    "GeneracionProgramadaRedespacho": 8558500.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "GTPE",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 11672180.0,
+    "GeneracionProgramadaDespacho": 11742000.0,
+    "GeneracionProgramadaRedespacho": 11742000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "PLYS",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 4905250.0,
+    "GeneracionProgramadaDespacho": 4950000.0,
+    "GeneracionProgramadaRedespacho": 4950000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "CHVR",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 11883100.0,
+    "GeneracionProgramadaDespacho": 11891000.0,
+    "GeneracionProgramadaRedespacho": 11851000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "SOG1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 12979290.0,
+    "GeneracionProgramadaDespacho": 13014000.0,
+    "GeneracionProgramadaRedespacho": 13014000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "PES1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 28291220.0,
+    "GeneracionProgramadaDespacho": 28800000.0,
+    "GeneracionProgramadaRedespacho": 28800000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "SNCR",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 23153870.0,
+    "GeneracionProgramadaDespacho": 23339000.0,
+    "GeneracionProgramadaRedespacho": 23339000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "URA1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 3057800.0,
+    "GeneracionProgramadaDespacho": 3040000.0,
+    "GeneracionProgramadaRedespacho": 3040000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "CLMG",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "PRDO",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 1106190.0,
+    "GeneracionProgramadaDespacho": 1062871.0,
+    "GeneracionProgramadaRedespacho": 1116921.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "QUI1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 2982130.0,
+    "GeneracionProgramadaDespacho": 2400000.0,
+    "GeneracionProgramadaRedespacho": 2400000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "HMLG",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 2202790.0,
+    "GeneracionProgramadaDespacho": 1595500.0,
+    "GeneracionProgramadaRedespacho": 2033000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "JAGS",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 2283860.0,
+    "GeneracionProgramadaDespacho": 2147000.0,
+    "GeneracionProgramadaRedespacho": 2284500.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "PGUG",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "SLVJ",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 5283360.0,
+    "GeneracionProgramadaDespacho": 5161000.0,
+    "GeneracionProgramadaRedespacho": 5256000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "GTRG",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 3731120.0,
+    "GeneracionProgramadaDespacho": 2906933.0,
+    "GeneracionProgramadaRedespacho": 2971727.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "CHBG",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 3033660.0,
+    "GeneracionProgramadaDespacho": 1963098.0,
+    "GeneracionProgramadaRedespacho": 2476618.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "GVIO",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 20948630.0,
+    "GeneracionProgramadaDespacho": 16626679.0,
+    "GeneracionProgramadaRedespacho": 18816032.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "GEC3",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 3783870.0,
+    "GeneracionProgramadaDespacho": 3936000.0,
+    "GeneracionProgramadaRedespacho": 3936000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "TYP2",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 654520.0,
+    "GeneracionProgramadaDespacho": 640000.0,
+    "GeneracionProgramadaRedespacho": 640000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "TYP4",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "MRL1",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "PPA1",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "TGJ2",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 2427410.0,
+    "GeneracionProgramadaDespacho": 2261488.0,
+    "GeneracionProgramadaRedespacho": 2205360.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "TBQ4",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "GE32",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "TBQ3",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "ZPA3",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "CTG2",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "PPA4",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 3938740.0,
+    "GeneracionProgramadaDespacho": 3950874.0,
+    "GeneracionProgramadaRedespacho": 3960000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "TDR1",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "TSJ2",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 1189440.0,
+    "GeneracionProgramadaDespacho": 4080000.0,
+    "GeneracionProgramadaRedespacho": 1432000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "PRG2",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 635000.0,
+    "GeneracionProgramadaDespacho": 677000.0,
+    "GeneracionProgramadaRedespacho": 635000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "TGJ1",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 1606900.0,
+    "GeneracionProgramadaDespacho": 950557.0,
+    "GeneracionProgramadaRedespacho": 968090.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3ENA",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "TYP1",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 195700.0,
+    "GeneracionProgramadaDespacho": 192000.0,
+    "GeneracionProgramadaRedespacho": 192000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4YCN",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 404000.0,
+    "GeneracionProgramadaDespacho": 404000.0,
+    "GeneracionProgramadaRedespacho": 404000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "TYP3",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 1226550.0,
+    "GeneracionProgramadaDespacho": 1200000.0,
+    "GeneracionProgramadaRedespacho": 1200000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "TCBE",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "TRN1",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 1568000.0,
+    "GeneracionProgramadaDespacho": 1488000.0,
+    "GeneracionProgramadaRedespacho": 1488000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "PPA2",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "CTG3",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "CTG1",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "ZPA4",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "PRG1",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 924000.0,
+    "GeneracionProgramadaDespacho": 924000.0,
+    "GeneracionProgramadaRedespacho": 924000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "PPA3",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 1637620.0,
+    "GeneracionProgramadaDespacho": 1680000.0,
+    "GeneracionProgramadaRedespacho": 1680000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "ZPA2",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "ZPA5",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "TSJ1",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 3974230.0,
+    "GeneracionProgramadaDespacho": 3960000.0,
+    "GeneracionProgramadaRedespacho": 3960000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "TYP5",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3N5E",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "AUTOGENERADOR PEQUEÑA ESCALA",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3GFQ",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "AUTOGENERADOR PEQUEÑA ESCALA",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3Q7D",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3RH2",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 13160.0,
+    "GeneracionProgramadaDespacho": 13160.0,
+    "GeneracionProgramadaRedespacho": 13160.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3MS2",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 85280.0,
+    "GeneracionProgramadaDespacho": 104000.0,
+    "GeneracionProgramadaRedespacho": 104000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3HE8",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 4210.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3KVZ",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4VYM",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 19460.0,
+    "GeneracionProgramadaDespacho": 24400.0,
+    "GeneracionProgramadaRedespacho": 24400.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3FCD",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 7910.0,
+    "GeneracionProgramadaDespacho": 6000.0,
+    "GeneracionProgramadaRedespacho": 6000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3PWF",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 16640.0,
+    "GeneracionProgramadaDespacho": 3000.0,
+    "GeneracionProgramadaRedespacho": 3000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3ACC",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 15280.0,
+    "GeneracionProgramadaDespacho": 13000.0,
+    "GeneracionProgramadaRedespacho": 13000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3QK6",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3L9B",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 19700.0,
+    "GeneracionProgramadaDespacho": 19700.0,
+    "GeneracionProgramadaRedespacho": 19700.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3EP6",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 9140.0,
+    "GeneracionProgramadaDespacho": 6000.0,
+    "GeneracionProgramadaRedespacho": 6000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3F5L",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 3560.0,
+    "GeneracionProgramadaDespacho": 3560.0,
+    "GeneracionProgramadaRedespacho": 3560.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3GSF",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 6660.0,
+    "GeneracionProgramadaDespacho": 7000.0,
+    "GeneracionProgramadaRedespacho": 7000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3HS9",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 16100.0,
+    "GeneracionProgramadaDespacho": 10000.0,
+    "GeneracionProgramadaRedespacho": 10000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2ZHY",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 40250.0,
+    "GeneracionProgramadaDespacho": 31000.0,
+    "GeneracionProgramadaRedespacho": 31000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3PK3",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 4770.0,
+    "GeneracionProgramadaDespacho": 2000.0,
+    "GeneracionProgramadaRedespacho": 2000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2TYI",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 10330.0,
+    "GeneracionProgramadaDespacho": 8000.0,
+    "GeneracionProgramadaRedespacho": 8000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4YAW",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3E7C",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 14210.0,
+    "GeneracionProgramadaDespacho": 11000.0,
+    "GeneracionProgramadaRedespacho": 11000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3PKF",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 800.0,
+    "GeneracionProgramadaDespacho": 600.0,
+    "GeneracionProgramadaRedespacho": 600.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4WUK",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 9040.0,
+    "GeneracionProgramadaDespacho": 24400.0,
+    "GeneracionProgramadaRedespacho": 24400.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "5AD4",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 380.0,
+    "GeneracionProgramadaDespacho": 7500.0,
+    "GeneracionProgramadaRedespacho": 7500.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3K8A",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 60.0,
+    "GeneracionProgramadaDespacho": 10.0,
+    "GeneracionProgramadaRedespacho": 10.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3F5N",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 880.0,
+    "GeneracionProgramadaDespacho": 880.0,
+    "GeneracionProgramadaRedespacho": 880.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4WUM",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 13020.0,
+    "GeneracionProgramadaDespacho": 24400.0,
+    "GeneracionProgramadaRedespacho": 24400.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4RG6",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3KXQ",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "CMN1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 108000.0,
+    "GeneracionProgramadaDespacho": 164800.0,
+    "GeneracionProgramadaRedespacho": 164800.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "AYR1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 330340.0,
+    "GeneracionProgramadaDespacho": 276000.0,
+    "GeneracionProgramadaRedespacho": 276000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2S6U",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 355740.0,
+    "GeneracionProgramadaDespacho": 156000.0,
+    "GeneracionProgramadaRedespacho": 156000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2T7D",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 70060.0,
+    "GeneracionProgramadaDespacho": 70060.0,
+    "GeneracionProgramadaRedespacho": 70060.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4XQC",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 79200.0,
+    "GeneracionProgramadaDespacho": 79200.0,
+    "GeneracionProgramadaRedespacho": 79200.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3ED1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3C4V",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 71520.0,
+    "GeneracionProgramadaDespacho": 71520.0,
+    "GeneracionProgramadaRedespacho": 71520.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2V27",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 9600.0,
+    "GeneracionProgramadaDespacho": 9600.0,
+    "GeneracionProgramadaRedespacho": 9600.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3JNR",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3NNZ",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 88800.0,
+    "GeneracionProgramadaDespacho": 88800.0,
+    "GeneracionProgramadaRedespacho": 88800.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2S6S",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 123400.0,
+    "GeneracionProgramadaDespacho": 47000.0,
+    "GeneracionProgramadaRedespacho": 47000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2S8G",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3ADA",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 2220.0,
+    "GeneracionProgramadaDespacho": 4560.0,
+    "GeneracionProgramadaRedespacho": 4560.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4T6C",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 43200.0,
+    "GeneracionProgramadaDespacho": 43200.0,
+    "GeneracionProgramadaRedespacho": 43200.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2YWY",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 84000.0,
+    "GeneracionProgramadaDespacho": 84000.0,
+    "GeneracionProgramadaRedespacho": 84000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3KLQ",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 88800.0,
+    "GeneracionProgramadaDespacho": 88800.0,
+    "GeneracionProgramadaRedespacho": 88800.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2S6Q",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3GJU",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 12000.0,
+    "GeneracionProgramadaDespacho": 12000.0,
+    "GeneracionProgramadaRedespacho": 12000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2V25",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 190030.0,
+    "GeneracionProgramadaDespacho": 165600.0,
+    "GeneracionProgramadaRedespacho": 165600.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3KL4",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 34780.0,
+    "GeneracionProgramadaDespacho": 120000.0,
+    "GeneracionProgramadaRedespacho": 120000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2S8I",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3C3X",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 4800.0,
+    "GeneracionProgramadaDespacho": 4800.0,
+    "GeneracionProgramadaRedespacho": 4800.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4XP3",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 105600.0,
+    "GeneracionProgramadaDespacho": 105600.0,
+    "GeneracionProgramadaRedespacho": 105600.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4T6E",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3Q99",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 4800.0,
+    "GeneracionProgramadaDespacho": 4800.0,
+    "GeneracionProgramadaRedespacho": 4800.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2YB9",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "AUTOGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 24000.0,
+    "GeneracionProgramadaDespacho": 24000.0,
+    "GeneracionProgramadaRedespacho": 24000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "RPL1",
+    "TipoGeneracion": "Cogenerador",
+    "TipoClasificacion": "COGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 384000.0,
+    "GeneracionProgramadaDespacho": 384000.0,
+    "GeneracionProgramadaRedespacho": 384000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "CGM1",
+    "TipoGeneracion": "Cogenerador",
+    "TipoClasificacion": "COGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 504860.0,
+    "GeneracionProgramadaDespacho": 455000.0,
+    "GeneracionProgramadaRedespacho": 455000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "CIP1",
+    "TipoGeneracion": "Cogenerador",
+    "TipoClasificacion": "COGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 295200.0,
+    "GeneracionProgramadaDespacho": 295200.0,
+    "GeneracionProgramadaRedespacho": 295200.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "PPN1",
+    "TipoGeneracion": "Cogenerador",
+    "TipoClasificacion": "COGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "INC1",
+    "TipoGeneracion": "Cogenerador",
+    "TipoClasificacion": "COGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 633600.0,
+    "GeneracionProgramadaDespacho": 633600.0,
+    "GeneracionProgramadaRedespacho": 633600.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "IRG1",
+    "TipoGeneracion": "Cogenerador",
+    "TipoClasificacion": "COGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 312000.0,
+    "GeneracionProgramadaDespacho": 312000.0,
+    "GeneracionProgramadaRedespacho": 312000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2SXQ",
+    "TipoGeneracion": "Cogenerador",
+    "TipoClasificacion": "COGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "CAS1",
+    "TipoGeneracion": "Cogenerador",
+    "TipoClasificacion": "COGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 72000.0,
+    "GeneracionProgramadaDespacho": 72000.0,
+    "GeneracionProgramadaRedespacho": 72000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "PNC1",
+    "TipoGeneracion": "Cogenerador",
+    "TipoClasificacion": "COGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 12400.0,
+    "GeneracionProgramadaDespacho": 336000.0,
+    "GeneracionProgramadaRedespacho": 336000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2UP2",
+    "TipoGeneracion": "Cogenerador",
+    "TipoClasificacion": "COGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 162460.0,
+    "GeneracionProgramadaDespacho": 206400.0,
+    "GeneracionProgramadaRedespacho": 206400.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "PIC1",
+    "TipoGeneracion": "Cogenerador",
+    "TipoClasificacion": "COGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 16150.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "CIS1",
+    "TipoGeneracion": "Cogenerador",
+    "TipoClasificacion": "COGENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 34380.0,
+    "GeneracionProgramadaDespacho": 13000.0,
+    "GeneracionProgramadaRedespacho": 13000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4RMR",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 6260.0,
+    "GeneracionProgramadaDespacho": 6260.0,
+    "GeneracionProgramadaRedespacho": 6260.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3NR8",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 6170.0,
+    "GeneracionProgramadaDespacho": 6170.0,
+    "GeneracionProgramadaRedespacho": 6170.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4WWY",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 3530.0,
+    "GeneracionProgramadaDespacho": 3530.0,
+    "GeneracionProgramadaRedespacho": 3530.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3RGZ",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 6170.0,
+    "GeneracionProgramadaDespacho": 6170.0,
+    "GeneracionProgramadaRedespacho": 6170.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3JPM",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 6170.0,
+    "GeneracionProgramadaDespacho": 6170.0,
+    "GeneracionProgramadaRedespacho": 6170.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3JBP",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 6070.0,
+    "GeneracionProgramadaDespacho": 6070.0,
+    "GeneracionProgramadaRedespacho": 6070.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4S1G",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 6560.0,
+    "GeneracionProgramadaDespacho": 6560.0,
+    "GeneracionProgramadaRedespacho": 6560.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4YLC",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4WWQ",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 6260.0,
+    "GeneracionProgramadaDespacho": 6260.0,
+    "GeneracionProgramadaRedespacho": 6260.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3KOL",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 6590.0,
+    "GeneracionProgramadaDespacho": 4530.0,
+    "GeneracionProgramadaRedespacho": 4530.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4VYB",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 5930.0,
+    "GeneracionProgramadaDespacho": 5930.0,
+    "GeneracionProgramadaRedespacho": 5930.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4XUX",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4YLE",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3NLE",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 6170.0,
+    "GeneracionProgramadaDespacho": 6170.0,
+    "GeneracionProgramadaRedespacho": 6170.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4UM1",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 5930.0,
+    "GeneracionProgramadaDespacho": 5930.0,
+    "GeneracionProgramadaRedespacho": 5930.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4Z8L",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4YLM",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 6260.0,
+    "GeneracionProgramadaDespacho": 6260.0,
+    "GeneracionProgramadaRedespacho": 6260.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4Z8T",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4T9M",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 6260.0,
+    "GeneracionProgramadaDespacho": 6260.0,
+    "GeneracionProgramadaRedespacho": 6260.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4S7E",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 6260.0,
+    "GeneracionProgramadaDespacho": 6260.0,
+    "GeneracionProgramadaRedespacho": 6260.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3NGJ",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 5960.0,
+    "GeneracionProgramadaDespacho": 4210.0,
+    "GeneracionProgramadaRedespacho": 4210.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4ZIS",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 640.0,
+    "GeneracionProgramadaDespacho": 640.0,
+    "GeneracionProgramadaRedespacho": 640.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3JP6",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 6420.0,
+    "GeneracionProgramadaDespacho": 5590.0,
+    "GeneracionProgramadaRedespacho": 5590.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3QPE",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 460.0,
+    "GeneracionProgramadaDespacho": 900.0,
+    "GeneracionProgramadaRedespacho": 900.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3MHB",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 6170.0,
+    "GeneracionProgramadaDespacho": 6170.0,
+    "GeneracionProgramadaRedespacho": 6170.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3HYG",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 6170.0,
+    "GeneracionProgramadaDespacho": 6170.0,
+    "GeneracionProgramadaRedespacho": 6170.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4ZEP",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 5930.0,
+    "GeneracionProgramadaDespacho": 5930.0,
+    "GeneracionProgramadaRedespacho": 5930.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4SO8",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 6260.0,
+    "GeneracionProgramadaDespacho": 6260.0,
+    "GeneracionProgramadaRedespacho": 6260.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4VBC",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 4340.0,
+    "GeneracionProgramadaDespacho": 4340.0,
+    "GeneracionProgramadaRedespacho": 4340.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3NR4",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 6170.0,
+    "GeneracionProgramadaDespacho": 6170.0,
+    "GeneracionProgramadaRedespacho": 6170.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3HG9",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4S66",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 770.0,
+    "GeneracionProgramadaDespacho": 770.0,
+    "GeneracionProgramadaRedespacho": 770.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3Q87",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 5920.0,
+    "GeneracionProgramadaDespacho": 5920.0,
+    "GeneracionProgramadaRedespacho": 5920.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4SS7",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 4340.0,
+    "GeneracionProgramadaDespacho": 4340.0,
+    "GeneracionProgramadaRedespacho": 4340.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4UZU",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 5930.0,
+    "GeneracionProgramadaDespacho": 5930.0,
+    "GeneracionProgramadaRedespacho": 5930.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4S7K",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 4340.0,
+    "GeneracionProgramadaDespacho": 4340.0,
+    "GeneracionProgramadaRedespacho": 4340.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4YLA",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 4900.0,
+    "GeneracionProgramadaDespacho": 6820.0,
+    "GeneracionProgramadaRedespacho": 6820.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4ULS",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 6260.0,
+    "GeneracionProgramadaDespacho": 6260.0,
+    "GeneracionProgramadaRedespacho": 6260.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4Y5T",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 3430.0,
+    "GeneracionProgramadaDespacho": 3430.0,
+    "GeneracionProgramadaRedespacho": 3430.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3JQC",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 6170.0,
+    "GeneracionProgramadaDespacho": 6170.0,
+    "GeneracionProgramadaRedespacho": 6170.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4Z8N",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3QQ3",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 520.0,
+    "GeneracionProgramadaDespacho": 520.0,
+    "GeneracionProgramadaRedespacho": 520.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4ULO",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 6260.0,
+    "GeneracionProgramadaDespacho": 6260.0,
+    "GeneracionProgramadaRedespacho": 6260.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3JPE",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 4180.0,
+    "GeneracionProgramadaDespacho": 2690.0,
+    "GeneracionProgramadaRedespacho": 2690.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3Q89",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 5920.0,
+    "GeneracionProgramadaDespacho": 5920.0,
+    "GeneracionProgramadaRedespacho": 5920.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3JPK",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 5900.0,
+    "GeneracionProgramadaDespacho": 5900.0,
+    "GeneracionProgramadaRedespacho": 5900.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4XOU",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3JP8",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 3840.0,
+    "GeneracionProgramadaDespacho": 4000.0,
+    "GeneracionProgramadaRedespacho": 4000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4YLK",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 6260.0,
+    "GeneracionProgramadaDespacho": 6260.0,
+    "GeneracionProgramadaRedespacho": 6260.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3K6X",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 6230.0,
+    "GeneracionProgramadaDespacho": 7190.0,
+    "GeneracionProgramadaRedespacho": 7190.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4ZIO",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3JPA",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 3680.0,
+    "GeneracionProgramadaDespacho": 3840.0,
+    "GeneracionProgramadaRedespacho": 3840.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3NU4",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 520.0,
+    "GeneracionProgramadaDespacho": 520.0,
+    "GeneracionProgramadaRedespacho": 520.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3HG7",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 60.0,
+    "GeneracionProgramadaDespacho": 60.0,
+    "GeneracionProgramadaRedespacho": 60.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4XQA",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 3580.0,
+    "GeneracionProgramadaDespacho": 3580.0,
+    "GeneracionProgramadaRedespacho": 3580.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3JQA",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 6730.0,
+    "GeneracionProgramadaDespacho": 6420.0,
+    "GeneracionProgramadaRedespacho": 6420.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3NDE",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 6070.0,
+    "GeneracionProgramadaDespacho": 6070.0,
+    "GeneracionProgramadaRedespacho": 6070.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4S7I",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 4340.0,
+    "GeneracionProgramadaDespacho": 4340.0,
+    "GeneracionProgramadaRedespacho": 4340.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3JPC",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 6520.0,
+    "GeneracionProgramadaDespacho": 3050.0,
+    "GeneracionProgramadaRedespacho": 3050.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3Q9K",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 6260.0,
+    "GeneracionProgramadaDespacho": 6260.0,
+    "GeneracionProgramadaRedespacho": 6260.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3JQE",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 6170.0,
+    "GeneracionProgramadaDespacho": 6170.0,
+    "GeneracionProgramadaRedespacho": 6170.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4SO2",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 6560.0,
+    "GeneracionProgramadaDespacho": 6560.0,
+    "GeneracionProgramadaRedespacho": 6560.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4YLO",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 6260.0,
+    "GeneracionProgramadaDespacho": 6260.0,
+    "GeneracionProgramadaRedespacho": 6260.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4ULY",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 5930.0,
+    "GeneracionProgramadaDespacho": 5930.0,
+    "GeneracionProgramadaRedespacho": 5930.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4UZS",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 4340.0,
+    "GeneracionProgramadaDespacho": 4340.0,
+    "GeneracionProgramadaRedespacho": 4340.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4WP2",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 6360.0,
+    "GeneracionProgramadaDespacho": 6360.0,
+    "GeneracionProgramadaRedespacho": 6360.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3R9G",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 7130.0,
+    "GeneracionProgramadaDespacho": 5700.0,
+    "GeneracionProgramadaRedespacho": 5700.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4Z8P",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "CMP2",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2S78",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 6960.0,
+    "GeneracionProgramadaDespacho": 6960.0,
+    "GeneracionProgramadaRedespacho": 6960.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "BYN1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "UNN1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 13800.0,
+    "GeneracionProgramadaDespacho": 13800.0,
+    "GeneracionProgramadaRedespacho": 13800.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "TMS1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 19050.0,
+    "GeneracionProgramadaDespacho": 19200.0,
+    "GeneracionProgramadaRedespacho": 19200.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "SLV1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 7740.0,
+    "GeneracionProgramadaDespacho": 8160.0,
+    "GeneracionProgramadaRedespacho": 8160.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "AMF1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 7200.0,
+    "GeneracionProgramadaDespacho": 7200.0,
+    "GeneracionProgramadaRedespacho": 7200.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2QRL",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 15600.0,
+    "GeneracionProgramadaDespacho": 15600.0,
+    "GeneracionProgramadaRedespacho": 15600.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "PST1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 14710.0,
+    "GeneracionProgramadaDespacho": 15600.0,
+    "GeneracionProgramadaRedespacho": 15600.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "NTB1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "AMR1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 410.0,
+    "GeneracionProgramadaDespacho": 5500.0,
+    "GeneracionProgramadaRedespacho": 5500.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "MND1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 10370.0,
+    "GeneracionProgramadaDespacho": 10800.0,
+    "GeneracionProgramadaRedespacho": 10800.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "CPT1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "GCC1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "RCIO",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 12160.0,
+    "GeneracionProgramadaDespacho": 12480.0,
+    "GeneracionProgramadaRedespacho": 12480.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "SJM1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "SJOG",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "INZ1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3AFQ",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 24000.0,
+    "GeneracionProgramadaDespacho": 24000.0,
+    "GeneracionProgramadaRedespacho": 24000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2S9L",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 10800.0,
+    "GeneracionProgramadaDespacho": 10800.0,
+    "GeneracionProgramadaRedespacho": 10800.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "BLL3",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 2970.0,
+    "GeneracionProgramadaDespacho": 4800.0,
+    "GeneracionProgramadaRedespacho": 4800.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "RGR1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 7200.0,
+    "GeneracionProgramadaDespacho": 7200.0,
+    "GeneracionProgramadaRedespacho": 7200.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "INT1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR DISTRIBUIDO",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "RPD1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "FILO DE AGUA",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 288930.0,
+    "GeneracionProgramadaDespacho": 288000.0,
+    "GeneracionProgramadaRedespacho": 288000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3EE4",
+    "TipoGeneracion": "Eolica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 194290.0,
+    "GeneracionProgramadaDespacho": 301520.0,
+    "GeneracionProgramadaRedespacho": 301520.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3EXH",
+    "TipoGeneracion": "Eolica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 57380.0,
+    "GeneracionProgramadaDespacho": 260920.0,
+    "GeneracionProgramadaRedespacho": 260920.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4UK6",
+    "TipoGeneracion": "Eolica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 7680.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "54091",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 54000.0,
+    "GeneracionProgramadaDespacho": 54000.0,
+    "GeneracionProgramadaRedespacho": 54000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3EXB",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 42960.0,
+    "GeneracionProgramadaDespacho": 21000.0,
+    "GeneracionProgramadaRedespacho": 21000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "TR3G",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 83580.0,
+    "GeneracionProgramadaDespacho": 131020.0,
+    "GeneracionProgramadaRedespacho": 131020.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3GPZ",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 52000.0,
+    "GeneracionProgramadaRedespacho": 52000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3HBN",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 60600.0,
+    "GeneracionProgramadaDespacho": 68000.0,
+    "GeneracionProgramadaRedespacho": 68000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4RGG",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 92000.0,
+    "GeneracionProgramadaDespacho": 92000.0,
+    "GeneracionProgramadaRedespacho": 92000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3EV3",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 69520.0,
+    "GeneracionProgramadaDespacho": 49000.0,
+    "GeneracionProgramadaRedespacho": 49000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3GI6",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 490.0,
+    "GeneracionProgramadaDespacho": 490.0,
+    "GeneracionProgramadaRedespacho": 490.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3J4T",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 3230.0,
+    "GeneracionProgramadaDespacho": 3230.0,
+    "GeneracionProgramadaRedespacho": 3230.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3NLZ",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 71490.0,
+    "GeneracionProgramadaDespacho": 67980.0,
+    "GeneracionProgramadaRedespacho": 67980.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "TR2G",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 81710.0,
+    "GeneracionProgramadaDespacho": 131020.0,
+    "GeneracionProgramadaRedespacho": 131020.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3NLG",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 24340.0,
+    "GeneracionProgramadaDespacho": 24340.0,
+    "GeneracionProgramadaRedespacho": 24340.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3B4L",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 33130.0,
+    "GeneracionProgramadaDespacho": 16110.0,
+    "GeneracionProgramadaRedespacho": 16110.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3PXH",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 99710.0,
+    "GeneracionProgramadaDespacho": 99710.0,
+    "GeneracionProgramadaRedespacho": 99710.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3HF9",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 148630.0,
+    "GeneracionProgramadaDespacho": 168000.0,
+    "GeneracionProgramadaRedespacho": 168000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2ZP9",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2VJS",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 42680.0,
+    "GeneracionProgramadaDespacho": 34000.0,
+    "GeneracionProgramadaRedespacho": 34000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3KJK",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 52400.0,
+    "GeneracionProgramadaDespacho": 52400.0,
+    "GeneracionProgramadaRedespacho": 52400.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4YL2",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 4940.0,
+    "GeneracionProgramadaDespacho": 4940.0,
+    "GeneracionProgramadaRedespacho": 4940.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4UZM",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 65490.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3EFY",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 90390.0,
+    "GeneracionProgramadaDespacho": 131020.0,
+    "GeneracionProgramadaRedespacho": 131020.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4SO6",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3GVM",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 82920.0,
+    "GeneracionProgramadaDespacho": 67000.0,
+    "GeneracionProgramadaRedespacho": 67000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3K8C",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 144010.0,
+    "GeneracionProgramadaDespacho": 167700.0,
+    "GeneracionProgramadaRedespacho": 167700.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4UZO",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3EV1",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 70560.0,
+    "GeneracionProgramadaDespacho": 49000.0,
+    "GeneracionProgramadaRedespacho": 49000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3J1J",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 68290.0,
+    "GeneracionProgramadaDespacho": 64000.0,
+    "GeneracionProgramadaRedespacho": 64000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3K8E",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 142320.0,
+    "GeneracionProgramadaDespacho": 167700.0,
+    "GeneracionProgramadaRedespacho": 167700.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3EDL",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 83440.0,
+    "GeneracionProgramadaDespacho": 115100.0,
+    "GeneracionProgramadaRedespacho": 115100.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4XQ2",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3BZB",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 10250.0,
+    "GeneracionProgramadaDespacho": 7000.0,
+    "GeneracionProgramadaRedespacho": 7000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3PXE",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 138940.0,
+    "GeneracionProgramadaDespacho": 167700.0,
+    "GeneracionProgramadaRedespacho": 167700.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3GVK",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 176680.0,
+    "GeneracionProgramadaDespacho": 147000.0,
+    "GeneracionProgramadaRedespacho": 147000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4SO4",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 55320.0,
+    "GeneracionProgramadaDespacho": 55320.0,
+    "GeneracionProgramadaRedespacho": 55320.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3PXC",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 142040.0,
+    "GeneracionProgramadaDespacho": 167700.0,
+    "GeneracionProgramadaRedespacho": 167700.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3GJQ",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 22110.0,
+    "GeneracionProgramadaDespacho": 23800.0,
+    "GeneracionProgramadaRedespacho": 23800.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3LMH",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 3230.0,
+    "GeneracionProgramadaDespacho": 3230.0,
+    "GeneracionProgramadaRedespacho": 3230.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4Z9S",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 54000.0,
+    "GeneracionProgramadaDespacho": 54000.0,
+    "GeneracionProgramadaRedespacho": 54000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3DSO",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 55340.0,
+    "GeneracionProgramadaDespacho": 55340.0,
+    "GeneracionProgramadaRedespacho": 55340.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3FCF",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 64280.0,
+    "GeneracionProgramadaDespacho": 52000.0,
+    "GeneracionProgramadaRedespacho": 52000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3PXF",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 145100.0,
+    "GeneracionProgramadaDespacho": 167700.0,
+    "GeneracionProgramadaRedespacho": 167700.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3J4V",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 3230.0,
+    "GeneracionProgramadaDespacho": 3230.0,
+    "GeneracionProgramadaRedespacho": 3230.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3J2B",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 149880.0,
+    "GeneracionProgramadaDespacho": 106000.0,
+    "GeneracionProgramadaRedespacho": 106000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3J83",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 50050.0,
+    "GeneracionProgramadaDespacho": 50050.0,
+    "GeneracionProgramadaRedespacho": 50050.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3J85",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 56240.0,
+    "GeneracionProgramadaDespacho": 56240.0,
+    "GeneracionProgramadaRedespacho": 56240.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3HBP",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 128740.0,
+    "GeneracionProgramadaDespacho": 146000.0,
+    "GeneracionProgramadaRedespacho": 146000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4Z8H",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4YL8",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 115470.0,
+    "GeneracionProgramadaDespacho": 115470.0,
+    "GeneracionProgramadaRedespacho": 115470.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3PXJ",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3EBN",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 63000.0,
+    "GeneracionProgramadaRedespacho": 63000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3C3Z",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 160840.0,
+    "GeneracionProgramadaDespacho": 146000.0,
+    "GeneracionProgramadaRedespacho": 146000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3CSH",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 3230.0,
+    "GeneracionProgramadaDespacho": 3230.0,
+    "GeneracionProgramadaRedespacho": 3230.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3HF7",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 149020.0,
+    "GeneracionProgramadaDespacho": 168000.0,
+    "GeneracionProgramadaRedespacho": 168000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3LLY",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 60850.0,
+    "GeneracionProgramadaDespacho": 66000.0,
+    "GeneracionProgramadaRedespacho": 66000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3J2H",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 63040.0,
+    "GeneracionProgramadaDespacho": 63040.0,
+    "GeneracionProgramadaRedespacho": 63040.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3IS2",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 12900.0,
+    "GeneracionProgramadaDespacho": 12900.0,
+    "GeneracionProgramadaRedespacho": 12900.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3J4R",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 3230.0,
+    "GeneracionProgramadaDespacho": 3230.0,
+    "GeneracionProgramadaRedespacho": 3230.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3K6T",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 3230.0,
+    "GeneracionProgramadaDespacho": 3230.0,
+    "GeneracionProgramadaRedespacho": 3230.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3RGX",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 85040.0,
+    "GeneracionProgramadaDespacho": 69140.0,
+    "GeneracionProgramadaRedespacho": 69140.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3GVI",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 176330.0,
+    "GeneracionProgramadaDespacho": 148000.0,
+    "GeneracionProgramadaRedespacho": 148000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3HLD",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 70840.0,
+    "GeneracionProgramadaDespacho": 70840.0,
+    "GeneracionProgramadaRedespacho": 70840.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3QCI",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 88630.0,
+    "GeneracionProgramadaDespacho": 88630.0,
+    "GeneracionProgramadaRedespacho": 88630.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3ENE",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 154640.0,
+    "GeneracionProgramadaDespacho": 153000.0,
+    "GeneracionProgramadaRedespacho": 153000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4QPJ",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3HWM",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 47000.0,
+    "GeneracionProgramadaRedespacho": 47000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3GRD",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 75570.0,
+    "GeneracionProgramadaDespacho": 65000.0,
+    "GeneracionProgramadaRedespacho": 65000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3A44",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 18900.0,
+    "GeneracionProgramadaDespacho": 18900.0,
+    "GeneracionProgramadaRedespacho": 18900.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3LMJ",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 81830.0,
+    "GeneracionProgramadaDespacho": 58000.0,
+    "GeneracionProgramadaRedespacho": 58000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3J4D",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 3230.0,
+    "GeneracionProgramadaDespacho": 3230.0,
+    "GeneracionProgramadaRedespacho": 3230.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "4YKB",
+    "TipoGeneracion": "Solar",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "OVJ1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 19680.0,
+    "GeneracionProgramadaRedespacho": 19680.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "AFR1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 174960.0,
+    "GeneracionProgramadaDespacho": 174960.0,
+    "GeneracionProgramadaRedespacho": 174960.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2T4P",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 396180.0,
+    "GeneracionProgramadaDespacho": 430560.0,
+    "GeneracionProgramadaRedespacho": 430560.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "VNTB",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 60000.0,
+    "GeneracionProgramadaRedespacho": 60000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "TUJ1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 472780.0,
+    "GeneracionProgramadaDespacho": 470400.0,
+    "GeneracionProgramadaRedespacho": 470400.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "RMYO",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 245510.0,
+    "GeneracionProgramadaDespacho": 406800.0,
+    "GeneracionProgramadaRedespacho": 406800.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "CSC1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 40070.0,
+    "GeneracionProgramadaDespacho": 40800.0,
+    "GeneracionProgramadaRedespacho": 40800.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "PRV1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 23170.0,
+    "GeneracionProgramadaDespacho": 23170.0,
+    "GeneracionProgramadaRedespacho": 23170.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "CCN1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 63900.0,
+    "GeneracionProgramadaDespacho": 63900.0,
+    "GeneracionProgramadaRedespacho": 63900.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "PMR1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 15760.0,
+    "GeneracionProgramadaDespacho": 15760.0,
+    "GeneracionProgramadaRedespacho": 15760.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "NAV1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 82600.0,
+    "GeneracionProgramadaDespacho": 84000.0,
+    "GeneracionProgramadaRedespacho": 84000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "MNT1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "VNTA",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 69000.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2TUT",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 363280.0,
+    "GeneracionProgramadaDespacho": 424320.0,
+    "GeneracionProgramadaRedespacho": 424320.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "SRA1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 26400.0,
+    "GeneracionProgramadaDespacho": 26400.0,
+    "GeneracionProgramadaRedespacho": 26400.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "INS1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 251430.0,
+    "GeneracionProgramadaDespacho": 168000.0,
+    "GeneracionProgramadaRedespacho": 168000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "GQA1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 211100.0,
+    "GeneracionProgramadaDespacho": 228000.0,
+    "GeneracionProgramadaRedespacho": 228000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "HMO1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 444220.0,
+    "GeneracionProgramadaDespacho": 432000.0,
+    "GeneracionProgramadaRedespacho": 432000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2SW1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 120540.0,
+    "GeneracionProgramadaDespacho": 120000.0,
+    "GeneracionProgramadaRedespacho": 120000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "BAR1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 441170.0,
+    "GeneracionProgramadaDespacho": 449760.0,
+    "GeneracionProgramadaRedespacho": 449760.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "NIM1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 135200.0,
+    "GeneracionProgramadaDespacho": 110000.0,
+    "GeneracionProgramadaRedespacho": 110000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2ZCF",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 337490.0,
+    "GeneracionProgramadaDespacho": 226000.0,
+    "GeneracionProgramadaRedespacho": 226000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "ABJ1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 72000.0,
+    "GeneracionProgramadaDespacho": 72000.0,
+    "GeneracionProgramadaRedespacho": 72000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2WC5",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 67200.0,
+    "GeneracionProgramadaDespacho": 67200.0,
+    "GeneracionProgramadaRedespacho": 67200.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2U1G",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 67200.0,
+    "GeneracionProgramadaDespacho": 67200.0,
+    "GeneracionProgramadaRedespacho": 67200.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "RGRN",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3AQP",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 4800.0,
+    "GeneracionProgramadaDespacho": 4800.0,
+    "GeneracionProgramadaRedespacho": 4800.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "SFC1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 8400.0,
+    "GeneracionProgramadaDespacho": 8400.0,
+    "GeneracionProgramadaRedespacho": 8400.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "RFR1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 13920.0,
+    "GeneracionProgramadaDespacho": 24000.0,
+    "GeneracionProgramadaRedespacho": 24000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "CQT1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 463330.0,
+    "GeneracionProgramadaDespacho": 456000.0,
+    "GeneracionProgramadaRedespacho": 456000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2S8N",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 99710.0,
+    "GeneracionProgramadaDespacho": 120000.0,
+    "GeneracionProgramadaRedespacho": 120000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "CUR1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "LCS1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 34880.0,
+    "GeneracionProgramadaDespacho": 31920.0,
+    "GeneracionProgramadaRedespacho": 31920.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2TUV",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 354890.0,
+    "GeneracionProgramadaDespacho": 414240.0,
+    "GeneracionProgramadaRedespacho": 414240.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "CLDR",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2R22",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 431640.0,
+    "GeneracionProgramadaDespacho": 432000.0,
+    "GeneracionProgramadaRedespacho": 432000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2SI1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 238400.0,
+    "GeneracionProgramadaDespacho": 240000.0,
+    "GeneracionProgramadaRedespacho": 240000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "RFR2",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 63650.0,
+    "GeneracionProgramadaDespacho": 156000.0,
+    "GeneracionProgramadaRedespacho": 156000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2UPD",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 324700.0,
+    "GeneracionProgramadaDespacho": 340800.0,
+    "GeneracionProgramadaRedespacho": 340800.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "PTC1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 25920.0,
+    "GeneracionProgramadaDespacho": 25920.0,
+    "GeneracionProgramadaRedespacho": 25920.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "PLU1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 9600.0,
+    "GeneracionProgramadaDespacho": 9600.0,
+    "GeneracionProgramadaRedespacho": 9600.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "RNG1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 168000.0,
+    "GeneracionProgramadaDespacho": 168000.0,
+    "GeneracionProgramadaRedespacho": 168000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "SNS1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2V5G",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 91200.0,
+    "GeneracionProgramadaDespacho": 91200.0,
+    "GeneracionProgramadaRedespacho": 91200.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2YNA",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 74400.0,
+    "GeneracionProgramadaDespacho": 74400.0,
+    "GeneracionProgramadaRedespacho": 74400.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2QV2",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 203260.0,
+    "GeneracionProgramadaDespacho": 246000.0,
+    "GeneracionProgramadaRedespacho": 246000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "CRC1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 80020.0,
+    "GeneracionProgramadaDespacho": 90000.0,
+    "GeneracionProgramadaRedespacho": 90000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "RCL1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 12530.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "RBB1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 60720.0,
+    "GeneracionProgramadaDespacho": 48000.0,
+    "GeneracionProgramadaRedespacho": 48000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "SUV1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 77500.0,
+    "GeneracionProgramadaDespacho": 33600.0,
+    "GeneracionProgramadaRedespacho": 33600.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2UPF",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 325620.0,
+    "GeneracionProgramadaDespacho": 340800.0,
+    "GeneracionProgramadaRedespacho": 340800.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2SDR",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 166850.0,
+    "GeneracionProgramadaDespacho": 166850.0,
+    "GeneracionProgramadaRedespacho": 166850.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "PRD4",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 140880.0,
+    "GeneracionProgramadaDespacho": 120000.0,
+    "GeneracionProgramadaRedespacho": 120000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2YIR",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 5040.0,
+    "GeneracionProgramadaDespacho": 5040.0,
+    "GeneracionProgramadaRedespacho": 5040.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "USQ1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 27220.0,
+    "GeneracionProgramadaDespacho": 26400.0,
+    "GeneracionProgramadaRedespacho": 26400.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "LMR1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 432450.0,
+    "GeneracionProgramadaDespacho": 432000.0,
+    "GeneracionProgramadaRedespacho": 432000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "SNC1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 30180.0,
+    "GeneracionProgramadaDespacho": 31200.0,
+    "GeneracionProgramadaRedespacho": 31200.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2UPJ",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 326680.0,
+    "GeneracionProgramadaDespacho": 340800.0,
+    "GeneracionProgramadaRedespacho": 340800.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2S8U",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 43200.0,
+    "GeneracionProgramadaDespacho": 36000.0,
+    "GeneracionProgramadaRedespacho": 36000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2UX3",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 414500.0,
+    "GeneracionProgramadaDespacho": 414500.0,
+    "GeneracionProgramadaRedespacho": 414500.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "PTG1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 7200.0,
+    "GeneracionProgramadaDespacho": 7200.0,
+    "GeneracionProgramadaRedespacho": 7200.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "VLT1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 121770.0,
+    "GeneracionProgramadaDespacho": 158400.0,
+    "GeneracionProgramadaRedespacho": 158400.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "HRD1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 272340.0,
+    "GeneracionProgramadaDespacho": 336000.0,
+    "GeneracionProgramadaRedespacho": 336000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2UPH",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 331850.0,
+    "GeneracionProgramadaDespacho": 340800.0,
+    "GeneracionProgramadaRedespacho": 340800.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3IRZ",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 16800.0,
+    "GeneracionProgramadaDespacho": 16800.0,
+    "GeneracionProgramadaRedespacho": 16800.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "IQU2",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "STG1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 24230.0,
+    "GeneracionProgramadaDespacho": 23040.0,
+    "GeneracionProgramadaRedespacho": 23040.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2SS2",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 122400.0,
+    "GeneracionProgramadaDespacho": 122400.0,
+    "GeneracionProgramadaRedespacho": 122400.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3H2U",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 235600.0,
+    "GeneracionProgramadaDespacho": 235600.0,
+    "GeneracionProgramadaRedespacho": 235600.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "SPY1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 27570.0,
+    "GeneracionProgramadaDespacho": 28800.0,
+    "GeneracionProgramadaRedespacho": 28800.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2QBW",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 413330.0,
+    "GeneracionProgramadaDespacho": 461760.0,
+    "GeneracionProgramadaRedespacho": 461760.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3HDG",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 336000.0,
+    "GeneracionProgramadaDespacho": 336000.0,
+    "GeneracionProgramadaRedespacho": 336000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "ALTG",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 171180.0,
+    "GeneracionProgramadaDespacho": 90000.0,
+    "GeneracionProgramadaRedespacho": 90000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "GCA1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 173580.0,
+    "GeneracionProgramadaDespacho": 205440.0,
+    "GeneracionProgramadaRedespacho": 205440.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "LPLO",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 20150.0,
+    "GeneracionProgramadaDespacho": 22800.0,
+    "GeneracionProgramadaRedespacho": 22800.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "COE1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 26400.0,
+    "GeneracionProgramadaDespacho": 26400.0,
+    "GeneracionProgramadaRedespacho": 26400.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "FLRD",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 420380.0,
+    "GeneracionProgramadaDespacho": 405000.0,
+    "GeneracionProgramadaRedespacho": 405000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "SBA1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 19920.0,
+    "GeneracionProgramadaDespacho": 16800.0,
+    "GeneracionProgramadaRedespacho": 16800.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "LBR1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "AMA1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 201680.0,
+    "GeneracionProgramadaDespacho": 181000.0,
+    "GeneracionProgramadaRedespacho": 181000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "IQU1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2UR5",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 21600.0,
+    "GeneracionProgramadaDespacho": 21600.0,
+    "GeneracionProgramadaRedespacho": 21600.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2T1L",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 377290.0,
+    "GeneracionProgramadaDespacho": 444480.0,
+    "GeneracionProgramadaRedespacho": 444480.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "BSQ1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 32590.0,
+    "GeneracionProgramadaDespacho": 31200.0,
+    "GeneracionProgramadaRedespacho": 31200.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "RMR1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 13200.0,
+    "GeneracionProgramadaDespacho": 27000.0,
+    "GeneracionProgramadaRedespacho": 27000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "NQU1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 321810.0,
+    "GeneracionProgramadaDespacho": 358500.0,
+    "GeneracionProgramadaRedespacho": 358500.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "PTA1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 16070.0,
+    "GeneracionProgramadaDespacho": 24000.0,
+    "GeneracionProgramadaRedespacho": 24000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "ASN1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 9540.0,
+    "GeneracionProgramadaDespacho": 10800.0,
+    "GeneracionProgramadaRedespacho": 10800.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "SJN1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 28440.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "PJR1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 221780.0,
+    "GeneracionProgramadaDespacho": 196800.0,
+    "GeneracionProgramadaRedespacho": 196800.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "BLM1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 47830.0,
+    "GeneracionProgramadaDespacho": 72000.0,
+    "GeneracionProgramadaRedespacho": 72000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "MIR1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 54860.0,
+    "GeneracionProgramadaDespacho": 63120.0,
+    "GeneracionProgramadaRedespacho": 63120.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "PLM1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3DXJ",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 10350.0,
+    "GeneracionProgramadaDespacho": 10350.0,
+    "GeneracionProgramadaRedespacho": 10350.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3CG9",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 336000.0,
+    "GeneracionProgramadaDespacho": 336000.0,
+    "GeneracionProgramadaRedespacho": 336000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "MNC1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 13310.0,
+    "GeneracionProgramadaDespacho": 14400.0,
+    "GeneracionProgramadaRedespacho": 14400.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "SNT1",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 136780.0,
+    "GeneracionProgramadaDespacho": 132000.0,
+    "GeneracionProgramadaRedespacho": 132000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3E9I",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 168000.0,
+    "GeneracionProgramadaDespacho": 168000.0,
+    "GeneracionProgramadaRedespacho": 168000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "3HDE",
+    "TipoGeneracion": "Hidraulica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 336000.0,
+    "GeneracionProgramadaDespacho": 336000.0,
+    "GeneracionProgramadaRedespacho": 336000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2U91",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 458480.0,
+    "GeneracionProgramadaDespacho": 458000.0,
+    "GeneracionProgramadaRedespacho": 458000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2S8S",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 6000.0,
+    "GeneracionProgramadaDespacho": 6000.0,
+    "GeneracionProgramadaRedespacho": 6000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2S9Q",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2U93",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 444270.0,
+    "GeneracionProgramadaDespacho": 458000.0,
+    "GeneracionProgramadaRedespacho": 458000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2U5P",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2WFN",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 72000.0,
+    "GeneracionProgramadaDespacho": 72000.0,
+    "GeneracionProgramadaRedespacho": 72000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "TPD1",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 90000.0,
+    "GeneracionProgramadaDespacho": 90000.0,
+    "GeneracionProgramadaRedespacho": 90000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "PTR1",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "2U8Y",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 472080.0,
+    "GeneracionProgramadaDespacho": 458000.0,
+    "GeneracionProgramadaRedespacho": 458000.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "TMB1",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  },
+  {
+    "Fecha": "2025-08-29",
+    "CodigoPlanta": "ARG1",
+    "TipoGeneracion": "Termica",
+    "TipoClasificacion": "GENERADOR",
+    "TipoDespachoRecurso": "No Despachado Centralmente",
+    "GeneracionRealEstimada": 0.0,
+    "GeneracionProgramadaDespacho": 0.0,
+    "GeneracionProgramadaRedespacho": 0.0
+  }
+]

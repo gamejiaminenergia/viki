@@ -1,0 +1,3 @@
+claude:
+cuantos agentes segun la base de datos posgresql son comercializadores?
+segun la base de datos postgresql cuanto es el total $ comprado en contratos por empresas publicas de medellin en enero de 2025 en el mercado no regulado?
