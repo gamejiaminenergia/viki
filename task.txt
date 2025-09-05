@@ -1,3 +1,78 @@
+- si vamos a nesecitar a jhon connor?
+- la ia no remplazara a las personas en el corto plazo pero la gente que usa la ia si remplazara a los que no la usan
+- actualmente existe una burbuja de la ia y gente vendiendo humo
+- el proximo unicornio no son 40 personas en presenciales son 2 personas que saben de un negocio asistidos por ia 
+
+las empresas del sector eléctrico colombiano enfrentan múltiples desafíos al acceder y procesar información crítica del mercado:
+-Información dispersa en múltiples fuentes públicas
+-Falta de procesamiento y análisis personalizado
+-Ausencia de insights accionables y predictivos
+-Dificultad para integrar datos con sistemas internos
+-Tiempo excesivo en tareas de recopilación manual
+
+agradecimeintos a los amigos simem https://www.simem.co/ esto es una base de datos de pruebas obvio que el tema tiene mas complejidad pero para efectos demostrativos
+
+porque es importante tener una base de datos?
+- orden en la informacion
+- rapidez
+- ect
+
+porque usar sql?
+- el excel no puede con todo!!!-----> depronto pero lo limita aveces el numero de celdas
+-por lo general los volumenes de la informacion son grandes y se demoraria mucho en un lenguaje interpretado
+
+remplaza a los informes?
+- la mejor parte para esconder un delito es la tercera pagina de un informe nadie la ve
+- no remplaza a los informes, por la naturaleza de la ia aveces los resultados no son replicables 
+
+existen muchos tipos de bases de datos?
+- grafos
+- sql
+- documentales
+
+que es un mcp?
+es un protocolo que le permite a los llm conectar y usar programas
+
+ventajas de analizar la informacion con ia?
+- tiende a ser mas imparcial
+
+desventajas de analizar la informacion con ia?
+- siempre va existir duda del proceso interno de pensamiento
+
+
+para que me sirve tener mi propio chat gpt energetico?
+- preguntas en caliente
+- pruebas concentuales
+- analisis de reglas de negocio 
+- pereza
+
+que nesecito para hacer esto?
+publicok
+usuariosk
+upme
+alejandria
+mini energia
+..... banco mundial
+
+
 claude:
 cuantos agentes segun la base de datos posgresql son comercializadores?
 segun la base de datos postgresql cuanto es el total $ comprado en contratos por empresas publicas de medellin en enero de 2025 en el mercado no regulado?
+
+existen opciones gratis?
+si llm privados ventajas que no compartes datos y ante las amenazas 
+
+
+recomendacion?
+- es impractico al corto plazo intentar crear un llm en local los costos son demasiado altos
+- para el caso en particular de los comercializadores pueden unir esfuerzos y crear un llm que puedan usar todos
+
+
+
+-si alcanza el tiempo mostrar otras herramientas
+
+
+
+el futuro es hoy
+ingeniero elecricista aldemar mejia celular 319 442 65 82 correo mejia414@hotmail.com
+
